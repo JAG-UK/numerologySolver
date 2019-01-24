@@ -55,6 +55,7 @@ var basicConversionPrecompValues *map[uint32][]string
 //PrecompWordList precalculates values for the alpha word list
 func PrecompWordList() error {
 	//Load the word list
+	//Requires a local \n delimited list of words.  `words_alpha` from https://github.com/dwyl/english-words works well.
 	conf := config.GetConfig()
 	//fmt.Printf("**DBG** Opening %v", conf.WordListPath)
 	file, err := os.Open(conf.WordListPath)
