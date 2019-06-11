@@ -20,7 +20,7 @@ Getting Started
 ---------------
 
 !! WARNING !! The code does not ship with a word list.  Before the ``/number`` API will work you'll need one in the form of a \n delimited list of words.  `words_alpha` from https://github.com/dwyl/english-words works well for this.  By default the code searches for 'words_aplha.txt' in the project root directory but you can configure this if you like.
-
+  
 Once you have a word list (or if you only want to use the ``/word`` API) run ``run.sh`` to bring up the server and make a test call.
 
 Usage
