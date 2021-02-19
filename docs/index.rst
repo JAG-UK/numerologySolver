@@ -12,7 +12,7 @@ Can calculate the value of a given word, or find all known words with a given va
 DISCLAIMER!!
 ------------
 
-I don't believe in numerology in any way.  This was actually written in response to an Internet meme that made me slightly irritated ;-) but nonetheless if you _do_ like numerology for whatever reason you're welcome to use it and go in peace. Or use it for logic puzzles, school projects, whatever.
+I don't believe in numerology in any way.  This was actually written in response to an Internet meme that made me slightly irritated ;-) but nonetheless if you *do* like numerology for whatever reason you're welcome to use it and go in peace. Or use it for logic puzzles, school projects, whatever.
 
 Started as an exercise in testing performance of various go data handling primitives, so don't expect much development beyond the initial feature set, but feel free to clone, update, whatever.  I'll accept PRs if they're nice and clear.
 
